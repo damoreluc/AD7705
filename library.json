@@ -1,0 +1,23 @@
+{
+  "name": "AD7705",
+  "version": "1.0.0",
+  "description": "A library for interfacing with the AD7705 ADC using SPI on ESP32",
+  "keywords": "AD7705, analog, digital, converter",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/damoreluc/AD7705.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Luca D'Amore",
+      "email": "damore.luca@isisbassafriulana.edu.it",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.helloworld.org/",
+  "frameworks": "arduino",
+  "platforms": "ESP32"
+}
